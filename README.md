@@ -1,2 +1,1 @@
-# practic-2
- 
+# practic
